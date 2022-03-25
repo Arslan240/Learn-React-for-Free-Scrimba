@@ -1,0 +1,25 @@
+.btn {
+  font-family: inherit;
+  padding: 1em 2em;
+  font-size: 1.1rem;
+  font-weight: 600;
+  border: none;
+  border-radius: 10px;
+  background-color: #4D5B9E;
+  color: white;
+  cursor: pointer;
+  /* margin-top: 1em ; */
+}
+
+.all-questions {
+  display: flex;
+  flex-direction: column;
+}
+
+.btn-score {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-bottom: 1em;
+  margin-top: 1em;
+}
